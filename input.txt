@@ -1,0 +1,4 @@
+int main(){
+	int ab = 4, a;
+	return 0;
+}

@@ -1,0 +1,7 @@
+Week-1.Lexical Analyzer - C
+Week-2.Lexical Analyzer using lex tool
+Week-3.FIRST of non terminals
+Week-5.Top down parsing
+Week-9.Predictive parsing
+Week-8.Infix to postfix
+Week-13.Three address code
