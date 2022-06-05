@@ -46,6 +46,8 @@ F()
     {
         i++;
         E();
+        if (input[i] != ')')
+            error = 1;
         i++;
     }
     else if (input[i] == 'i')

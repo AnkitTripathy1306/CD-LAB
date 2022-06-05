@@ -1,4 +1,5 @@
-int main(){
-	int ab = 4, a;
-	return 0;
+#include<stdio.h>
+int main (){
+	int a = 10, b = a +20;
 }
+/* Hey there */

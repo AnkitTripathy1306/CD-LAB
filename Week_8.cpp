@@ -7,7 +7,8 @@ int main()
     cout << "Enter Expression: ";
     cin >> exp;
     stack<char> stk;
-    for (int i = 0; i < exp.size(); i++){
+    for (int i = 0; i < exp.size(); i++)
+    {
         if (exp[i] >= 'A' && exp[i] <= 'Z')
             op += exp[i];
         else if (exp[i] == '(')
@@ -39,7 +40,6 @@ int main()
             }
             stk.pop();
         }
-        cout << exp[i] << " " << stk.size() << " " << op << "\n";
     }
     cout << op;
 }

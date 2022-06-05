@@ -1,0 +1,8 @@
+XXXXXX1.Write a C/C++ -- program to Implement Lexical Analyzer. 
+XXXXXX2.Write a Program to Implement the Lexical Analyzer Using LEX Tool.
+XXXXXX3.Write a Program to Compute FIRST of Non-Terminals.
+4.Write a Program to compute FOLLOW of Non-Terminals.
+XXXXXX5.Write a Program to implement Top Down Parsing for a given Grammar.
+XXXXXX8.Write a Program to Convert Infix Expression to Post Expression.
+10.Write a Program to Construct the Shift-Reduce Parser for a given Grammar.
+XXXXXX13.Generate the Optimized Three Address Code for a Given Expression.
